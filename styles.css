@@ -1,0 +1,45 @@
+.pics img{
+    width:200px;
+    height:200px;
+}
+    .anna img{
+        width:400px;
+        border: 10px inset black;
+    }
+        .header{
+            background:#BFECEF;
+            text-align:center;
+        }
+        .anna{
+            background:	#FFF0F5;
+            text-align:center;
+            }
+.pics{
+    display:flex;
+    justify-content: space-around;
+    background:	#FFF0F5;    
+}
+        .Donate{
+            background:#BFECEF;
+            text-align:center;
+        }
+                .smile{
+                    background:#BFECEF;
+                    text-align:center;
+                }
+                        .smile h2 { text-shadow: 2px 2px white;}
+ button{
+     font-size: 50px;
+     background:#FFE5E5;
+     border:4px solid white;
+ }
+body{
+    font-family: 'Gamja Flower', cursive;
+ }
+p{font-size: 30px;
+font-family: 'Lakki Reddy', cursive;
+}
+h1{ font-size: 40px;}
+        img{
+            border: 3px solid white; }
+    
